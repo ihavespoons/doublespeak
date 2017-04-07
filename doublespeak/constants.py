@@ -1,0 +1,1 @@
+DEF_SERVER = "https://doublespeak.io/us/"

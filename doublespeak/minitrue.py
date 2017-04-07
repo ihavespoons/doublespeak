@@ -3,7 +3,7 @@
 import sys
 import urllib
 import hashlib
-
+from doublespeak.versificator import versificator
 
 def hasher():
     # Take cli input
@@ -14,8 +14,4 @@ def hasher():
     return hash_result
 
 def searchlight(hashresult):
-    # takes a hash of the search and transmits it to the search api
-    bulb =
-
-
-
+    socket = versificator()
