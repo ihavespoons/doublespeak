@@ -15,6 +15,7 @@ def hasher():
 
 def searchlight(hashresult):
     # takes a hash of the search and transmits it to the search api
+    bulb =
 
 
 
