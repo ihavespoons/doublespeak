@@ -1,1 +1,1 @@
-DEF_SERVER = "https://doublespeak.io/us/"
+DEF_SERVER = "https://doublespeak.io/api/us/"
